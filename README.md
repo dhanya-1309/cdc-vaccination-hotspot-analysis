@@ -37,4 +37,10 @@ Where should a CDC Director focus attention? I identified the places and groups 
 - This shows where coverage is low, not why. Explaining causes would need other data.
 
 ## What I did
-[WRITE 2-3 LINES: your part of the group project]
+This was a **group project** (Team Hollywood). My part was:
+- **Cleaning the data in Excel:** filtered the CDC dataset down to adults 65+, survey year 2020, and the pneumococcal vaccine, and checked the fields (estimate, confidence interval, sample size, FIPS) before analysis.
+- **Building pivot tables** to compare coverage across states, territories, counties and race groups against the 70.3% national benchmark.
+- **Building Tableau views** used to find and show the hot spots.
+- Working with my team on the hot spot rule, the "normal" benchmark, and the final presentation.
+
+The analysis, findings and presentation were produced by the whole team.
